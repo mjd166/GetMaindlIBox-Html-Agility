@@ -1,0 +1,13 @@
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\bin\Debug\Getmainlbox.exe.config
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\bin\Debug\Getmainlbox.exe
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\bin\Debug\Getmainlbox.pdb
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\bin\Debug\HtmlAgilityPack.dll
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\bin\Debug\HtmlAgilityPack.xml
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\obj\Debug\Getmainlbox.csprojAssemblyReference.cache
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\obj\Debug\Getmainlbox.Form1.resources
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\obj\Debug\Getmainlbox.Properties.Resources.resources
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\obj\Debug\Getmainlbox.csproj.GenerateResource.cache
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\obj\Debug\Getmainlbox.csproj.CopyComplete
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\obj\Debug\Getmainlbox.exe
+C:\Users\MAJID\Source\Repos\Getmainlbox\Getmainlbox\obj\Debug\Getmainlbox.pdb
